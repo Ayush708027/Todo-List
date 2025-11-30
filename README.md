@@ -5,8 +5,7 @@ This repository stays in sync with your deployed application. Any changes you ma
 Deployment
 
 Your project is live at:
-https://vercel.com/ayushs-projects-3c6095c4/simple-project-for-interview
-
+https://sadas-iota.vercel.app/
 Build Your App
 How It Works
 
